@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.software_art.news_app.redd",
+    "sha256_cert_fingerprints":
+    ["A9:3C:52:F9:54:C6:85:A1:C8:BD:D7:B0:46:99:3E:97:1E:76:02:15:C2:AF:75:9C:6C:FB:43:EF:7C:64:F6:1F"]
+  }
+}]
